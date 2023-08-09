@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: cursive;
+}
+.img{
+    height: 100px;
+    border-radius: 50px;
+}
+.img-button{
+    padding-left: 10px;
+    border-radius: 100px;
+    border: 5px solid rgb(243, 243, 8);
+    margin-right: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.reset-button{
+    padding: 8px 10px;
+    border-radius: 15px;
+    font-family:cursive ;
+    font-weight:bolder;
+    color: rgb(167, 49, 49);
+    background-color: antiquewhite;
+}
